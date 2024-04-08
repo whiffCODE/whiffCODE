@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whiffCODE
+- 👋 Hi, I’m Subhadip Samanta / @whiffCODE 
 - 👀 I’m interested in Software Development, Database Management, Building Website, Corporate Projects, etc.
 - 🌱 I’m currently learning Core C, Core Java, Data Structures, Algorithms, SQL, HTML, CSS.
 - 💞️ I’m looking to collaborate on ...
